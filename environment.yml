@@ -7,10 +7,6 @@ channels:
 - conda-forge
 
 dependencies:
-- python=3.5.0
-- numpy
-- pandas
-- matplotlib
 - sequana
 
 
